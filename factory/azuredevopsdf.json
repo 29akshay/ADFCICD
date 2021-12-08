@@ -1,0 +1,9 @@
+{
+	"name": "azuredevopsdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92394293-b06e-4820-94b3-f311f17065ab",
+		"tenantId": "3fa59786-efca-40a5-9f89-3a8a5d863be6"
+	}
+}
